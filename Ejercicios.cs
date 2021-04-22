@@ -16,7 +16,7 @@ namespace Linq
         ///     
         /// HINT: Usar la función AniosDeEdad() desde FechaDeNacimiento para obtener los años de edad de cada alumno.
         /// </summary>
-        public static IEnumerable<Persona> Ejercicio1(List<Alumno> alumnos) 
+        public static IEnumerable<Persona> Ejercicio1(List<Alumno> alumnos)
         {
             return Enumerable.Empty<Persona>();
         }
